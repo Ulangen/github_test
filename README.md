@@ -9,9 +9,11 @@
 
 Далее идет **жирный текст**
 
-	for (let i = 0; i < 100; i++) {
-		console.log("Hello GitHub")
-	}
+```javascript
+for (let i = 0; i < 100; i++) {
+	console.log("Hello GitHub")
+}
+```
 
 1. создать index.html
 2. добавить базовую разметку
